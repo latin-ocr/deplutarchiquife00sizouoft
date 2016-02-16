@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deplutarchiquife00sizouoft_0010.png"; bbox 0 0 2280 3366; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 388 460 1475 705">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 388 460 1475 667">
+     <span class='ocr_line' id='line_1_1' title="bbox 491 460 1332 532; baseline -0.001 -8"><span class='ocrx_word' id='word_1_1' title='bbox 491 480 685 524; x_wconf 80' lang='lat' dir='ltr'><strong>Utinam</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 735 478 850 525; x_wconf 84' lang='lat' dir='ltr'>mihi</span> <span class='ocrx_word' id='word_1_3' title='bbox 889 470 1063 523; x_wconf 68' lang='lat' dir='ltr'>liceret</span> <span class='ocrx_word' id='word_1_4' title='bbox 1107 475 1196 523; x_wconf 83' lang='lat' dir='ltr'><strong>hoe</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1238 460 1332 532; x_wconf 41' lang='lat' dir='ltr'><strong>loc*</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 388 535 1475 616; baseline -0.003 -21"><span class='ocrx_word' id='word_1_6' title='bbox 388 579 391 581; x_wconf 57' lang='lat'>&gt;</span> <span class='ocrx_word' id='word_1_7' title='bbox 434 551 792 616; x_wconf 70' lang='lat' dir='ltr'>Bms‘rEvasz,</span> <span class='ocrx_word' id='word_1_8' title='bbox 825 549 925 614; x_wconf 86' lang='lat' dir='ltr'><strong>qui</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 930 548 1040 606; x_wconf 82' lang='lat' dir='ltr'><strong>inde</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1070 548 1133 592; x_wconf 84' lang='lat' dir='ltr'><strong>ab</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1161 535 1371 595; x_wconf 70' lang='lat' dir='ltr'><strong>infan&#39;tia</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1387 557 1475 606; x_wconf 49' lang='lat' dir='ltr'><strong>me,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 433 619 1340 705; baseline -0.003 -40"><span class='ocrx_word' id='word_1_13' title='bbox 433 621 491 705; x_wconf 79' lang='grc' dir='ltr'>ᾱε</span> <span class='ocrx_word' id='word_1_14' title='bbox 534 620 763 667; x_wconf 81' lang='lat' dir='ltr'>rhetorica</span> <span class='ocrx_word' id='word_1_15' title='bbox 788 619 968 699; x_wconf 43' lang='lat' dir='ltr'><strong>habitis·</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 992 619 1199 699; x_wconf 42' lang='lat' dir='ltr'><strong>interfui..</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 1336 621 1340 627; x_wconf 79' lang='grc'><strong>’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 2280 3366">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 2280 3366">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 2280 3366; baseline 0 0"><span class='ocrx_word' id='word_1_18' title='bbox 0 0 2280 3366; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
